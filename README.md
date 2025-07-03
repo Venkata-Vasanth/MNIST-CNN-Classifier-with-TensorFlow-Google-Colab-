@@ -4,7 +4,7 @@ A simple Convolutional Neural Network (CNN) using TensorFlow to classify handwri
 
 ---
 
-🚀 Run on Google Colab
+## 🚀 Run on Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
 
@@ -14,7 +14,7 @@ Replace `YOUR_COLAB_LINK_HERE` with your Colab notebook URL.
 
 ---
 
-🧩 Features
+## 🧩 Features
 
 ✅ Load and preprocess MNIST using TensorFlow Datasets  
 ✅ Build and train a CNN to classify digits (0–9)  
@@ -25,7 +25,7 @@ Replace `YOUR_COLAB_LINK_HERE` with your Colab notebook URL.
 
 ---
 
-🛠️ Requirements
+## 🛠️ Requirements
 
 Runs seamlessly on Google Colab (recommended).
 
