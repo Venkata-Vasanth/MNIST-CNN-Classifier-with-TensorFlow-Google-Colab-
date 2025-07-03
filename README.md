@@ -6,7 +6,7 @@ A simple Convolutional Neural Network (CNN) using TensorFlow to classify handwri
 
 ## 🚀 Run on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1DznE5IIp0g3b125HMCpK4hyYoNRCCYDa?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1DznE5IIp0g3b125HMCpK4hyYoNRCCYDa?usp=sharing)
 
 > **Click the badge to run this notebook instantly in your browser (no setup required).**
 
